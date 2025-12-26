@@ -1,0 +1,30 @@
+System Initializing...
+> Power check ........ OK
+> Memory allocation ... OK
+.
+.
+.
+.> Kernel version 4.19.87 loaded
+.> Initializing device drivers [#]
+.> Network interface detected [#]
+> Assigning IP address [#]
+.> Connection established [#]
+.> Verifying system integrity [#]
+> No anomalies detected [#]
+.
+.
+.
+.> Mounting virtual filesystem [#]
+.> Parsing command sequence [#]
+.
+.
+> reroute
+> Command accepted
+.> Preparing reroute module
+.> Destination validated [#]
+> Reroute initialized [#]
+.> Redirecting to https://discord.gg/bB6Qf2Ev
+> Handshake complete
+> Transfer in progress...
+
+[terminate] {https://youtu.be/dQw4w9WgXcQ?si=-7bCkSJphOFOLGYv}
