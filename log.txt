@@ -18,6 +18,7 @@ System Initializing...
 .> Parsing command sequence [#]
 .
 .
+> Please input command
 > reroute
 > Command accepted
 .> Preparing reroute module
@@ -28,3 +29,4 @@ System Initializing...
 > Transfer in progress...
 
 [terminate] {https://youtu.be/dQw4w9WgXcQ?si=-7bCkSJphOFOLGYv}
+
